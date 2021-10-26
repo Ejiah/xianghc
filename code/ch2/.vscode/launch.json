@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "pwa-chrome",
+            "url": "file:///D://%E6%BE%88//%E5%AD%A6%E6%9C%9F%E9%A1%B9%E7%9B%AE2//xhcheng//trunk//code//ch2//index.html",
+            "webRoot": "${workspaceFolder}"
+        },
+    ]
+}
